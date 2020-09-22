@@ -1,4 +1,4 @@
-# Tugas Web 01 - Company Profile (100% HTML, tanpa CSS atau JS)
+# Tugas Web 01 - Company Profile
 
 > 100% HTML, tanpa CSS atau JS! Keren sekali, bukan?
 
