@@ -1,6 +1,6 @@
 # Tugas Web 01 - Company Profile
 
-> 100% HTML, tanpa CSS atau JS! Keren sekali, bukan?
+> Dibuat dengan 100% cinta kasih seorang web developer pemula :voss
 
 [Versi online? Klik di sini!](https://bukanvalen.github.io/tugasweb01-companyprofile/index.html)
 
